@@ -1,0 +1,4 @@
+(s1)
+1. 자격증 : 없음
+2. 대외활동 : 카카오테크 부트캠프
+3. 스킬 : Python, Machine Learning
